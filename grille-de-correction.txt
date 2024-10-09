@@ -1,0 +1,35 @@
+Grille de correction
+
+CRITÈRE	                                PONDÉRATION	    AUTO CORRECTION
+Respect des spec de la VM	                  0	
+Version d’Ubuntu	                          0	
+Compte sysadmin	                            0	
+Compte webadmin + groupe sudo	              0	
+Installation de open ssh server	            0	
+Mise en place de la pile A.M.P.	            0	
+‘apache2’ en mode ‘disable’	                0
+
+---------------------------------------
+Mise en place du site web par défaut
+– page d’accueil                            0
+– erreur 404                                0
+– erreur 403 (adresses IP)                  0
+– Redirection vers information.html	        0
+
+---------------------------------------
+Fonctionnalité du site portfolio
+– Dossier d’installation                    0
+– Fonctionnalité	                          0
+
+---------------------------------------
+Fonctionnalité du site babillard
+– Dossier d’installation                    0
+– Francisation                              0
+– Fonctionnalité                            0
+
+--------------------------------------- ------          --------------
+Fichiers de remise	                        0	
+Clé USB de type 3 et fonctionnelle	      (30)	
+
+
+Total sur 30                                                   /30
